@@ -10,6 +10,6 @@ python server.py
 
 python server.py --device=cuda
 
-*客户端测试
+* 客户端测试
 
 python client.py
